@@ -1,0 +1,15 @@
+# MATLAB/Simulink cache and temporary files
+*.asv
+*.autosave
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+*.mex*
+*.log
+*.mat
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
